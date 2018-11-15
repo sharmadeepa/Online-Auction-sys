@@ -1,0 +1,40 @@
+.body{
+    background: lightgray !important;
+}
+    .color{
+    background: #cccccc;
+}
+.header{
+    background: #9966ff;
+    border: 3px solid#9966ff;
+    text-align: center;
+}
+.blank{
+    height: 80px;
+
+}
+.img{
+    margin-left: 20px;
+}
+.title-head{
+    margin-left: 10px;
+    margin-top: -5px;
+    margin-bottom: 20px;
+    font-size:20px;
+}
+.line{
+    border: 1px solid dimgray;
+    width: 0px;
+    height: 285px;
+}
+.register{
+    font-size: 15px;
+    color: #000
+}
+.space{
+    background:#9966ff;
+    border: 3px solid#9966ff;
+    margin-top: 77px;
+    margin-bottom: 20px;
+    padding: 40px;
+}

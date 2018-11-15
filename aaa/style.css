@@ -1,0 +1,63 @@
+
+.wrapper {
+    background-color: #968484;
+}
+.col-lg-4{
+	color: white;
+	font-size: 50px;
+	text-align: center;
+	margin-top: 5px;
+	margin-left: 100px;
+}
+.col-lg-6{
+	margin-top: 30px;
+
+}
+
+.img{
+	margin-left: -5px;
+
+}
+.contain{
+	background-color: white;
+	height: 40px;
+}
+.btn{
+	background: #b3b6b7;
+	color: black;
+	position: relative;
+    left: 1050px;
+    margin-top: 5px;     	 	
+	
+}
+.btn:hover {
+    color: blue;
+
+}
+.app 	 {
+	float: right;
+	margin-left: 10px;
+	
+}
+.well{
+	width: 200px;
+}
+.cat{
+	margin-left: 30px;
+	color:grey;
+}
+
+
+.image{
+	margin-bottom: -20px;
+}
+.col-lg-2{
+	margin-left: 88px;
+	margin-top: -200px;
+	
+}
+.btw{
+	margin-left: 70px;
+	margin-top: 20px;
+}
+	

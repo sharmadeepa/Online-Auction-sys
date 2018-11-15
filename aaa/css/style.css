@@ -1,0 +1,81 @@
+.wrapper{
+	background-color: #003366;
+}
+.col-lg-4{
+	color: white;
+	font-size: 50px;
+	text-align: center;
+	margin-top: 5px;
+	margin-left: 100px;
+}
+.col-lg-6{
+	margin-top: 30px;
+	float: right;
+
+}
+
+.img{
+	margin-left: -5px;
+
+}
+.contain{
+	background-color: white;
+	height: 40px;
+}
+.btn{
+	background: #b3b6b7;
+	color: black;
+	position: relative;
+    left: 1050px;
+    margin-top: 5px;     	 	
+	
+}
+.btn:hover {
+    color: blue;
+
+}
+.app 	 {
+	float: right;
+	margin-left: 10px;
+	
+}
+.well{
+	width: 200px;
+}
+.cat{
+	margin-left: 30px;
+	color:grey;
+}
+
+
+.image{
+	margin-bottom: -20px;
+}
+.col-lg-2{
+	margin-left: 88px;
+	margin-top: -200px;
+	
+}
+.btw{
+	margin-left: 70px;
+	margin-top: 20px;
+}
+	
+
+
+
+.ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 60px;
+} 
+
+.li a {
+    display: block;
+}
+
+.li a:hover {
+    background-color: #555;
+    color: white;
+}
